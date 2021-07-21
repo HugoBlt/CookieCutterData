@@ -1,0 +1,9 @@
+{
+    "full_name": "Hugo Blamont",
+    "email": "hugo.blamont@brut.media",
+    "github_username": "HugoBlt",
+    "github_repo": "template-cookiecutter",
+    "default_branch": "main",
+    "directory_name": "DS CookieCutter",
+    "project_short_description": "Sample project generated from Hugo's DS CookieCutter Template."
+}
