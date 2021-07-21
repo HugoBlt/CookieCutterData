@@ -5,26 +5,23 @@
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager pip or conda to install cookiecutter.
 
 ```bash
-pip install foobar
+pip install cookiecutter
+```
+
+```bash
+conda install cookiecutter
 ```
 
 ## Usage
 
-```python
-import foobar
+Use template from [CookieCutterData](https://github.com/HugoBlt/CookieCutterData.git) to create your projet.
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
+```bash
+cookiecutter https://github.com/HugoBlt/CookieCutterData.git
 ```
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+Hugo Blamont
